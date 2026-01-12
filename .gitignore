@@ -1,0 +1,10 @@
+# Java
+/target
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.log
+*.iml
+/.idea
+/.vscode
+.DS_Store
+bin/
